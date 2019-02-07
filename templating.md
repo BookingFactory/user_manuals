@@ -11,7 +11,7 @@ layout: null
 
 If you wanna use external resources like images or fonts - you should use Data URI format ([https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs "https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs"))
 
-# Folio Template
+# Guest Registration form Template
 
 ### Available variables
 
@@ -21,7 +21,7 @@ If you wanna use external resources like images or fonts - you should use Data U
 
 **today** - current date
 
-# Guest Registration form Template
+# Folio Template
 
 ### Available variables
 
@@ -80,6 +80,10 @@ custom_question_second
 ### GuestDrop:
 
 title
+
+booking - link to associated _BookingDrop_
+
+room - link to associated _BookingRoomDrop_
 
 email
 
